@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "https://github.com/seiren-primrose/PL-Baileys.git",
+    "@whiskeysockets/baileys": "git+https://github.com/seiren-primrose/PL-Baileys.git",
     "axios": "^1.6.8",
     "chalk": "^4.1.2",
     "crypto": "^1.0.1",
